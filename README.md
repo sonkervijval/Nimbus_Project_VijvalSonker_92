@@ -140,6 +140,7 @@ Distance: 4.50 km | Rate: 6.00 | Amount: 77.45
 
 ## 👍 Author
 
-Created by **Vijval Sonker** 
+Created by:-
+- **Vijval Sonker** -25LBCS3310
 
 ---
